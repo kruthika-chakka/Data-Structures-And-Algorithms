@@ -1,0 +1,9 @@
+Make a single linked list of integers.  
+  - There should be at least 15 nodesThe list should not be sorted.
+  - Traverse the list.
+  - Now sort the list using selection sort - do not use any other sorting algorithm.
+    The list should be sorted such that your program unlinks the nodes and relinks them so that they are sorted. (DO NOT SWAP THE VALUES IN THE NODES).
+  - Traverse the list again.
+Submit the complete code.
+A readme file with instructions to compile.
+submit each  Screen shot of your program execution.
