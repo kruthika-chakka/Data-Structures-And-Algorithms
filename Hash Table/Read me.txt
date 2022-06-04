@@ -1,0 +1,5 @@
+Execution:  When the program is run, it shows the number of collisions.
+* Make sure the txt file "words.txt" is in the same directory as "ans.cpp" (keep the files submitted in the same directory)
+* In case the words entered need to be changed, open the "words.txt" file and change the words. Seperate the words using <enter>
+* In case initial table size needs to be changed, open "ans.cpp" and change the value of variable "table_size" which is a global variable
+
