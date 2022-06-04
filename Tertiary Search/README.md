@@ -1,4 +1,4 @@
- Question:
+#**Question**
   - We covered binary search algorithm for an array. 
   - Write program similar to binary search, but now divide the list into 3 parts each time.  So this would be tertiary search algorithm. 
   - Your program must be recursive
