@@ -1,4 +1,4 @@
-# Data-Structures-And-Algorithms
+# Question
 Make a single linked list of integers.  
   - There should be at least 15 nodesThe list should not be sorted.
   - Traverse the list.
